@@ -22,10 +22,8 @@
   <li>🏫 Currently studying Business Informatics @ University of Augsburg</li>
   <li>📖 Learning and practicing DevOps and FullStack Development</li>
   <li>🖥️ Working Student in Full-Stack Software Engineering @ MaibornWolff</li>
-  <li>⭐ Preferred Stack: Spring/Laravel + SQL + Tailwind + Vue.js + Cypress.io</li>
-  <li>🔥 Experience in ASP.NET, Spring, Django, Laravel, Express.js, next.js, 
-React, Vue.js, Git, TensorFlow, Cypress.io, Jest, Selenium, 
-NUnit, Junit</li>
+  <li>⭐ Preferred Stack: TypeScript + Remix/Next.js + PostgresSQL + React + Tailwind + Vitest + Prisma.io</li>
+  <li>🔥 Fullstack experience in ASP.NET Blazor + React, Spring Boot + Angular, Django + React, Laravel + Vue, Remix.run + React, Next.js</li>
   </ul>
 <!--
 <div align="center">
