@@ -19,7 +19,7 @@
 
 <h2>About me</h2>
   <ul>
-  <li>🏫 Currently studying Business Informatics @ University of Augsburg</li>
+  <li>🏫 B.Sc Business Informatics & Information Systems @ University of Augsburg</li>
   <li>📖 Learning and practicing DevOps and FullStack Development</li>
   <li>🖥️ Software Developer @ MaibornWolff GmbH</li>
   <li>⭐ Preferred Stack: TypeScript + Remix/Next.js + PostgresSQL + React + Tailwind + Vitest + Prisma.io</li>
